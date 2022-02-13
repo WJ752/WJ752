@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WJ752
+- 👋 Hi, I’m WJ Hassan Ahamed
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning C and Python
 - 📫 How to reach me 
